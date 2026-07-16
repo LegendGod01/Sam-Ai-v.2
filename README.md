@@ -2,6 +2,10 @@
 
 # 🤖 SAM AI
 
+<p align="center">
+  <img src="banner.png" width="100%" alt="SAM AI Banner">
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=The+Future+of+AI+Starts+Here.;Chat.+Create.+Think.+Faster.;Voice+%7C+Images+%7C+Files+%7C+AI.;Welcome+to+SAM+AI."/>
 
 ### ✨ Your Next-Generation AI Assistant
@@ -19,12 +23,6 @@
 <img src="https://img.shields.io/badge/Mobile-Friendly-9333ea?style=for-the-badge"/>
 </p>
 
----
-
-### 🌐 Live Website
-
-## https://sam-ai-v2-psi.vercel.app/
-
 </div>
 
 ---
@@ -33,8 +31,7 @@
 
 - ✨ About
 - 🚀 Live Demo
-- 🎬 Demo
-- 📸 Screenshots
+- 📱 Screenshots
 - ⚡ Features
 - 🛠 Tech Stack
 - 🗺 Roadmap
@@ -47,7 +44,16 @@
 
 **SAM AI** is a modern AI assistant inspired by the world's best conversational AI experiences.
 
-Designed with speed, simplicity, and premium aesthetics, SAM AI helps users chat, create, upload files, generate images, and interact naturally with AI.
+Designed with speed, simplicity, and premium aesthetics, SAM AI helps users:
+
+- 💬 Intelligent AI Chat
+- 🎤 Voice Conversations
+- 📁 File Uploads
+- 🖼️ AI Image Generation
+- ⚡ Lightning Fast Responses
+- 🌙 Beautiful Dark UI
+- 📱 Mobile Responsive Design
+- 🌐 Progressive Web App
 
 ---
 
@@ -65,30 +71,10 @@ Designed with speed, simplicity, and premium aesthetics, SAM AI helps users chat
 
 ---
 
-# 🎬 Demo
+# 📱 Mobile Preview
 
 <p align="center">
-
-> Replace this image with **assets/demo.gif**
-
-<img src="assets/demo.gif" width="100%"/>
-
-</p>
-
----
-
-# 📸 Screenshots
-
-## Desktop
-
-<p align="center">
-<img src="assets/desktop.png" width="100%"/>
-</p>
-
-## Mobile
-
-<p align="center">
-<img src="assets/mobile.png" width="35%"/>
+<img src="mobile.png" width="35%" alt="SAM AI Mobile">
 </p>
 
 ---
@@ -100,79 +86,60 @@ Designed with speed, simplicity, and premium aesthetics, SAM AI helps users chat
 | 💬 Intelligent AI Chat | ✅ |
 | 🎤 Voice Conversations | ✅ |
 | 📁 File Upload Support | ✅ |
-| 🖼 AI Image Generation | ✅ |
+| 🖼️ AI Image Generation | ✅ |
 | ⚡ Lightning Fast UI | ✅ |
 | 🌙 Beautiful Dark Theme | ✅ |
 | 📱 Mobile Responsive | ✅ |
-| 🌐 Progressive Web App | ✅ |
+| 🌍 Progressive Web App | ✅ |
 | 🔒 Secure Experience | ✅ |
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 
-</div>
-
----
-
-# 🌟 Why SAM AI?
-
-- ⚡ Ultra-fast interface
-- 🎨 Premium modern design
-- 🤖 Powerful AI experience
-- 📱 Works perfectly on desktop & mobile
-- 🔒 Secure and reliable
-- 🚀 Easy to use
-- 🌍 Accessible anywhere
+</p>
 
 ---
 
 # 🗺 Roadmap
 
-- ✅ AI Chat
-- ✅ Voice Chat
+- ✅ Premium Chat UI
+- ✅ Fable 5 Integration
 - ✅ Image Generation
-- ✅ File Uploads
-- 🚧 AI Agents
-- 🚧 Long-Term Memory
-- 🚧 Android App
-- 🚧 iOS App
-- 🚧 Team Collaboration
+- ✅ Voice Conversations
+- ✅ File Upload Support
+- 🔄 AI Agents
+- 🔄 Plugin System
+- 🔄 Desktop Application
 
 ---
 
 # 📊 Project Status
 
-```text
-████████████████████░░ 90%
-```
+🟢 **Actively Developed**
 
-SAM AI is actively developed with new features and continuous improvements.
+New features and improvements are added regularly.
 
 ---
 
-# ⭐ Support
+# ❤️ Support
 
-If you enjoy SAM AI, consider giving this repository a **⭐ Star**.
-
-It helps the project grow and reach more people.
-
----
+If you enjoy **SAM AI**, consider giving this repository a ⭐.
 
 <div align="center">
 
-## 🚀 Experience SAM AI Today
+## ⭐ Star this repository
 
 <a href="https://sam-ai-v2-psi.vercel.app/">
-<img src="https://img.shields.io/badge/Launch%20SAM%20AI-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Launch-SAM%20AI-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
 
-Made with ❤️ by **SAM AI**
+### Made with ❤️ by the SAM AI Project
 
 </div>
